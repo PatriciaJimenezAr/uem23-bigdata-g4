@@ -4,5 +4,4 @@
 #### Carolina Romero
 #### Livia Gamero
 #### Patricia Jiménez
-# Repo para PBGI 2023
-### Ramas originales main / develop
+
